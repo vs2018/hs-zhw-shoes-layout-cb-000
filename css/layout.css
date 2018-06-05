@@ -38,10 +38,10 @@
   /*  line-height: 0;*/
   /*}*/
 
-  [class*="col-"] {
-    float: left;
-    margin-left: 2%;
-  }
+  /*[class*="col-"] {*/
+  /*  float: left;*/
+  /*  margin-left: 2%;*/
+  /*}*/
 
   [class*="col-"]:first-child {
     margin-left: 0;
@@ -50,7 +50,7 @@
   .col-4 { 
     float:left;
     width: 32%;
-    margin-left: 2%;
+    margin: 2%;
     
   }
   .col-8 { 
