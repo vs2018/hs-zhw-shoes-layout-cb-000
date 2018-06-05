@@ -24,4 +24,95 @@
 
 /* Posititoning Classes */
 
+.shadow_grass {
+  float: left;
+  width: 66.66%;
+  margin: 1%;
+  
+}
+
+.shadow_archive {
+  float: right;
+  width:32%;
+}
+
+.shadow_images {
+  float: left;
+  width: 32%;
+  margin: 0.5%;
+}
+
+.first {
+  margin-left: 0%;
+}
+
+
+.clearfix:after {
+  content: ".";
+  display:block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
+}
+
+.border_right {
+  float: left;
+  width: 33.33%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.shadow_grass {*/
+/*  float: left;*/
+/*  width: 62%;*/
+/*}*/
+
+/*.shadow_archive {*/
+/*  float: left;*/
+/*  width: 34%;*/
+/*}*/
+
+/*.first {*/
+/*  margin-left: 0%;*/
+/*}*/
+
+/*[class*="shadow_"] {*/
+/*  margin-left: 2%;*/
+/*}*/
+
+/*.shadow_images {*/
+/*  float: left;*/
+/*  width: 32%;*/
+/*}*/
+
+/*[class*="shadow__"] {*/
+/*  margin-left: 3.33%;*/
+/*}*/
+
+/*.clearfix:after {*/
+/*  content: ".";*/
+/*  display:block;*/
+/*  clear: both;*/
+/*  visibility: hidden;*/
+/*  height: 0;*/
+/*  line-height: 0;*/
+/*}*/
+
+
+
 
